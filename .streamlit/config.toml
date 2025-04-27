@@ -1,0 +1,16 @@
+# ----- Paramètres de configuration du serveur Streamlit -----
+
+[server]
+headless = true         # Lance Streamlit en mode "sans interface graphique" directement dans le navigateur
+port = 8501             # Définit le port utilisé pour accéder à l'application (localhost:8501)
+enableCORS = false      # Désactive la protection CORS (utile pour éviter des blocages si l'app est locale)
+
+# ----- Paramètres du thème visuel de l'application -----
+
+[theme]
+base = "light"          # Utilise un thème clair
+primaryColor = "#4CAF50"    # Couleur principale (utilisée pour les boutons, sélections, etc.)
+backgroundColor = "#FFFFFF"    # Couleur de fond principale de l'application (blanc)
+secondaryBackgroundColor = "#F0F2F6"   # Couleur de fond secondaire (ex : fond des barres latérales)
+textColor = "#262730"       # Couleur du texte principal
+font = "sans serif"         # Police du texte

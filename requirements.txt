@@ -1,0 +1,15 @@
+pandas   # Librairie pour manipuler et analyser des données sous forme de tableaux (DataFrames)
+
+numpy    # Librairie pour faire du calcul mathématique et des manipulations sur des tableaux numériques
+
+matplotlib  # Librairie pour tracer des graphiques et des visualisations (courbes, barres, camemberts)
+
+seaborn  # Extension de matplotlib pour créer des graphiques plus jolis et plus sophistiqués
+
+yfinance  # Librairie pour récupérer des données financières en direct depuis Yahoo Finance
+
+streamlit  # Framework  rapide pour créer des applications web interactives avec Python
+
+openpyxl  # Librairie pour lire, modifier et écrire des fichiers Excel (.xlsx)
+
+
